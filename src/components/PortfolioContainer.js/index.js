@@ -8,7 +8,7 @@ import Contact from '../pages/Contact';
 function PortfolioContainer() {
   const [currentPage, handlePageChange] = useState('About');
   const renderPage = () => {
-   
+
     switch (currentPage) {
       case "About":
         return <About></About>
@@ -18,6 +18,8 @@ function PortfolioContainer() {
         return <Contact></Contact>
       case "Resume":
         return <Resume></Resume>
+      default:
+        return <About></About>
     }
   };
 

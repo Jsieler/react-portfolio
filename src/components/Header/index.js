@@ -1,9 +1,10 @@
 import React from 'react'
+import PortfolioContainer from '../PortfolioContainer.js'
 
 function Header() {
 
   return (
-    <header></header>
+    <header><PortfolioContainer></PortfolioContainer></header>
   )
 }
 
