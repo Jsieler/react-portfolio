@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Cinamac",
+        "image": "cinamac.jpeg",
+        "github": "https://github.com/Jsieler/Cinamac",
+        "deployedapp": "https://jsieler.github.io/Cinamac/",
+        "description": "Mobile responsive Movie app that uses API's to allow the user to get info on movies playing in theater, theaters nearby, daily/weekly trending movies/tv-shows. Users can also search for movies/tv-shows/actors, which will provide a description, and a few facts about searched item.",
+        "skills": "HTML, CSS/Bootstrap, JavaScript/JQuery, API"
+    },
+    {
+        "id": 2,
+        "name": "Hogwart Library",
+        "image": "hogwarts-library.jpeg",
+        "github": "https://github.com/Jsieler/wizard-sorting-quiz",
+        "deployedapp": "https://pacific-scrubland-02824.herokuapp.com/",
+        "description": "Welcome to Hogwarts library where you can view Witches and Wizards, view Spells and even create your own Spells and Wizards! If you want to become a Witch or Wizard you can take a quiz to figure out what house best fits you, or let destiny decide your fate.",
+        "skills": "HTML, JavaScript, CSS, Express, MVC, API, MySQL, Express, Bcrypt, Micron.js, Express-session, Express-handlebars "
+    },
+    {
+        "id": 3,
+        "name": "Weather Report",
+        "image": "weather-report.jpeg",
+        "github": "https://github.com/Jsieler/weather-report",
+        "deployedapp": "https://jsieler.github.io/weather-report/",
+        "description": "Weather Report is an application that uses third party APIs from https://openweathermap.org/ to access their data on weather forecasts for desired city. Search a City name and get the current weather, and a 5 day forecast.",
+        "skills": "HTML, JavaScript, CSS, API, DOM"
+    }
+]
