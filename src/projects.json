@@ -25,5 +25,24 @@
         "deployedapp": "https://jsieler.github.io/weather-report/",
         "description": "Weather Report is an application that uses third party APIs from https://openweathermap.org/ to access their data on weather forecasts for desired city. Search a City name and get the current weather, and a 5 day forecast.",
         "skills": "HTML, JavaScript, CSS, API, DOM"
+    },
+    {
+        "id": 4,
+        "name": "Track My Budget",
+        "image": "track-my-budget.jpeg",
+        "github": "https://github.com/Jsieler/track-my-budget",
+        "deployedapp": "https://afternoon-lowlands-53183.herokuapp.com/",
+        "description": "Track My Budget is an application that allows users to add and subtract expenses to their budgets. This application allows for offline access and functionality, without a connection. If the user enters transactions offline, the total will be updated when they're brought back online. This application uses service worker, web manifest, and IndexedDB for offline functionality.",
+        "skills": "HTML, JavaScript, CSS, Service Worker, Web Manifest, IndexedDB, MongoDB, Express"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "note-taker.jpeg",
+        "github": "https://github.com/Jsieler/note-taker",
+        "deployedapp": "https://floating-mountain-03397.herokuapp.com/",
+        "description": "Application that can be useed to write and save notes. This application uses Express.js back end to save and retrieve note data from a JSON file.",
+        "skills": "HTML, JavaScript, CSS, API, Express"
     }
+    
 ]
