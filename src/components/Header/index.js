@@ -1,10 +1,11 @@
 import React from 'react'
-import PortfolioContainer from '../PortfolioContainer.js'
 
 function Header() {
 
   return (
-    <header><PortfolioContainer></PortfolioContainer></header>
+    <header id="header-background">
+      <h1>Joshua Sieler</h1>
+    </header>
   )
 }
 

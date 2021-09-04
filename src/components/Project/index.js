@@ -38,7 +38,7 @@ function Projects () {
   return (
   <>
   <div className="project">
-  <h1 className="title">Projects</h1>
+  <h2 className="title">Projects</h2>
   </div>
 
     <Wrapper>
