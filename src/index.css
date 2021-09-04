@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family:oblique, italic, normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #85c7ec;
@@ -121,7 +119,7 @@ h1 {
 
 h2 {
   font-family: fantasy;
-  margin-top: 15px;
+  margin-top: 35px;
   margin-bottom: 10px;
 }
 
