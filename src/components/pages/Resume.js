@@ -9,9 +9,7 @@ const Resume = () => (
 
     <Row>
       <Col>
-        <h3>Front End Proficiencies:</h3>
-      </Col>
-      <Col>
+      <h3>Front End Proficiencies:</h3>
         <ul>
           <li>HTML</li>
           <li>CSS</li>
@@ -29,9 +27,7 @@ const Resume = () => (
 
     <Row>
       <Col>
-        <h3>Back End Proficiencies:</h3>
-      </Col>
-      <Col>
+      <h3>Back End Proficiencies:</h3>
         <ul>
           <li>Node</li>
           <li>OOP</li>
