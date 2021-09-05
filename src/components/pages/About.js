@@ -1,11 +1,12 @@
 import React from "react";
 import { Row, Container, Col } from "react-bootstrap";
+import image from '../../assets/images/bio-image.jpeg'
 
 const About = () => (
   <Container>
     <Row>
       <Col>
-      <img src="bio-image.jpeg" className="bio-image mx-auto d-block"  width="200px" alt="bio"></img>
+      <img src={image} className="bio-image mx-auto d-block"  width="200px" alt="bio"></img>
       <h2>About Me</h2>
       </Col>
     </Row>

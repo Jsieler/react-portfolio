@@ -43,6 +43,15 @@
         "deployedapp": "https://floating-mountain-03397.herokuapp.com/",
         "description": "Application that can be useed to write and save notes. This application uses Express.js back end to save and retrieve note data from a JSON file.",
         "skills": "HTML, JavaScript, CSS, API, Express"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "workday-scheduler.jpeg",
+        "github": "https://github.com/Jsieler/work-day-schedule",
+        "deployedapp": "https://jsieler.github.io/work-day-schedule/",
+        "description": "Work Day Scheduler is a simple calendar application that allows a user to save events for each hour of the day.",
+        "skills": "HTML, JavaScript, CSS, jQuery, Moment.js"
     }
     
 ]
