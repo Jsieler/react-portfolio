@@ -13,13 +13,7 @@ const About = () => (
     <Row>
       <Col>
         <p className="about-me-text">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-          condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-          mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-          Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-          justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-          dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-          Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+          "My name is Joshua Sieler, and this is my portfolio I have made with React. I'm currently enrolled in the University of Utah Professional Education Coding Boot Camp, where I have discovered my new passion for coding! I'm in the process of becoming a Full-Stack Web Developer, in my portfolio you can find how to contact me, and also view my projects I have made using a variety of coding languages."
         </p>
       </Col>
     </Row>
