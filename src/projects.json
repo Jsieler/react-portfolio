@@ -52,6 +52,15 @@
         "deployedapp": "https://jsieler.github.io/work-day-schedule/",
         "description": "Work Day Scheduler is a simple calendar application that allows a user to save events for each hour of the day.",
         "skills": "HTML, JavaScript, CSS, jQuery, Moment.js"
+    },
+    {
+        "id": 6,
+        "name": "Team-Up",
+        "image": "team-up.jpeg",
+        "github": "https://github.com/Jsieler/team-up",
+        "deployedapp": "https://protected-depths-21600.herokuapp.com/",
+        "description": "Team-Up is a gaming social networking app, where you can follow your favorite games, and add users with similar game interest to team up!",
+        "skills": "MERN (MongoDB, Express.js, React, and Node.js), GraphQl, JSON Web Token, Bcryptjs"
     }
     
 ]
