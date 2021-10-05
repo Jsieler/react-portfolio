@@ -1,7 +1,7 @@
 # react-portfolio
 
 ## Description
-* Single-page application portfolio. 
+* Single-page application portfolio using `React`
 
 ## No Installation Necessary Deployed On GitHub Pages
 * Click link to use  <a href="https://jsieler.github.io/react-portfolio/">Portfolio</a> 
